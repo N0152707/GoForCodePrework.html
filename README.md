@@ -5,3 +5,4 @@
 3) 3.2 LAB - Album Page V1
 4) 7.2 LAB - Album Page V2
 5) 8.2 LAB - Contact Us Form
+6) 8.3 Lab - Restaurant Site V1 (Home, Menu, ContactUs html)
