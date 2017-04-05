@@ -1,3 +1,5 @@
+﻿This GoForCode Repo will hold all requied prework for the Portsmouth Java April class.
+
 # formattingDemoPage.html
 6.2 Lab - HTML Formatting
 
