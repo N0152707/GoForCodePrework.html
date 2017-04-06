@@ -1,0 +1,6 @@
+/* Lab - Restaurant Site V2- In this lab, you will revisit the restaurant site that you created in the HTML labs. You will apply what you have learned about in-line styles, internal style sheets, and external style sheets.
+ 1.top / bottom must match across the pages, so store their styles in an external file called restaurantStyles.css.--> */
+
+h1 {color: green; text-align: center; }
+
+footer {color: darkgreen;}
