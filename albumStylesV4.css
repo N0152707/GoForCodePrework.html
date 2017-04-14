@@ -1,0 +1,14 @@
+
+/*                          Lab - Album Page V 4  
+
+2.If the album's image is in an img element, move it to a new div and set the image as the div's background.
+Note: You may need to use height to get the positioning right.
+
+3.Italicize each of the band members and producers */
+
+li {color:deeppink; font-style: italic;}
+
+caption {color:deeppink}
+
+
+div { background: url(https://audiophileparadise.files.wordpress.com/2012/07/stairway.png) no-repeat; width: 1000px; height: 300px; }

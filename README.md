@@ -9,5 +9,6 @@ HTML docs
 6) 8.3 Lab - Restaurant Site V1 (Home, Menu, ContactUs html)
 
 CSS docs
-7) 1.4 Lab - Album Site V3 - ( albumStyle.css & albmum page v3 html)
+7) 1.4 Lab - Album Site V3 - (albumStyle.css & albmum page v3 html)
 8) 1.5 Lab - Restaurant Site V2 -(Home, Menu, ContactUs, restaurantStyle.css)
+8) 2.2 Lab - Album Site V4 -(albumStyleV4.css & albmum page v4 html)
