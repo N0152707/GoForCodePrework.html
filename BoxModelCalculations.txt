@@ -1,0 +1,79 @@
+
+<!-- OBJECTIVE -->
+
+In this exercise, you will apply the equations for calculating heights and widths as discussed in the Box Model lesson.
+
+The sample element you are working with is:
+
+#div1 {
+
+height: 150px;
+
+width: 400px;
+
+margin: 20px;
+
+border: 1px solid red;
+
+padding: 10px;
+
+}
+
+For this object, calculate:
+
+•Total height
+•Total width
+•Browser calculated height
+•Browser calculated width
+
+Save your answers in a file named BoxModelCalculations.txt and be sure to show your work as to how you arrived at the answers.
+
+
+Add this file to your local repository and check it into your GitHub repository.
+_____________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
+
+Total height calculation:
+
+margin-top + border-top + padding-top + (height of the content)+ padding-bottom + border-bottom + margin-bottom = Total Height 
+
+    20     +     1      +     10      +         150            +       10       +       1       +       20      =   212
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>
+Total width calculation: 
+
+margin-left + border-left + padding-left + (width of the content) + padding-right + border-right + margin-right = Total Width
+
+    20      +     1       +     10       +         400            +      10       +       1      +       20     =    462    
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>
+Browser calculated width: 
+
+border-left + padding-left + (width of the content) + padding-right + border-right = Browser Width
+
+     1      +     10       +           400          +      10       +      1       =    422             
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>
+Browser calculated height: 
+
+border-top + padding-top + (height of the content)+ padding-bottom + border-bottom = Browser Height
+ 
+    1      +     10       +           150          +      10       +      1       =    172      
+
+_____________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
